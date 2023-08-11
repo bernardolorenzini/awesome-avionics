@@ -131,6 +131,7 @@ It was born in 2012 as an upgrade to the previous versions DO-178A (1980) and DO
 - [GE Aviation](https://www.geaviation.com/)
 - [L3Harris Technologies, Inc.](https://www.l3harris.com/)
 - [Leonardo Company](https://www.leonardo.com/en/home)
+- [Embraer](https://embraer.com/br/pt)
 
 [video]: media/icons/video.png "video"
 [awesome]: media/icons/awesome.png "awesome"
