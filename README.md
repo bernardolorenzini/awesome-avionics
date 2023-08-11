@@ -96,7 +96,11 @@ It was born in 2012 as an upgrade to the previous versions DO-178A (1980) and DO
 ### Static Analysis
 - [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis)
 
-## Certifications
+## Certifications and Quality Assurance
+
+### Tools
+
+- [ALM QC](https://software.microfocus.com/en-us/products/quality-center-quality-management/overview) - Formerly known as HP Quality Center is a quality management software. Manages tests, problem reports and labs for testing.
 
 ## Books
 - [Developing safety-critical software](https://www.amazon.com/Developing-Safety-Critical-Software-Practical-Compliance/dp/143981368X), by Leanna Rierson.
