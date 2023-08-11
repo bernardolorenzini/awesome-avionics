@@ -72,6 +72,15 @@ It was born in 2012 as an upgrade to the previous versions DO-178A (1980) and DO
 - [C++](https://github.com/fffaraz/awesome-cpp#readme) - Awesome C++.
 - [Python](https://github.com/vinta/awesome-python) - Awesome Python.
 
+### Certified COTS
+  [SCADE Suite](https://www.ansys.com/) - Code Generator: 
+- Qualifiable/certified SCADE Suite KCG 6.6.2:
+- Qualifiable as DO-330 TQL-1 tool under DO-178C
+- Certified under ISO 26262:2011 at ASIL D and C
+- Certified under IEC 61508:2010 at SIL 3
+- Certified under EN 50128:2011 at SIL 3/4
+
+  
 ### Frameworks
 - [Matlab](https://it.mathworks.com/products/matlab.html) - Main page.
 
