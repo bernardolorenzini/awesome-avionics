@@ -117,7 +117,7 @@ It was born in 2012 as an upgrade to the previous versions DO-178A (1980) and DO
 ## Papers
 - [Roadmap to DO-178C](https://www.academia.edu/74924848/Roadmap_to_a_DO_178_C_Formal_Model_Based_Software_Engineering_Methodology), by Tanaya Datta.
 - [Avionics Software Certification and Regulation](https://umm-csci.github.io/senior-seminar/seminars/spring2019/debates.pdf), by Kyle DeBates.
-- [Development and Flight-Test of a Commercial Head-Up Display](https://hoh-aero.com/HUD/SETP_HUD_Paper.pdf), by Roger H; Alfredo J. Arencibia; Glen M;
+- [Development and Flight-Test of a Commercial Head-Up Display](https://hoh-aero.com/HUD/SETP_HUD_Paper.pdf), by Roger H; Alfredo J. Arencibia; Glen M.
 
 ## Companies
 - [Northrop Grumman](https://www.northropgrumman.com/)
