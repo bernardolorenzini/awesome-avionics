@@ -114,6 +114,9 @@ It was born in 2012 as an upgrade to the previous versions DO-178A (1980) and DO
 - [Flying Magazine](https://www.flyingmag.com/)
 - [Aeroplane](https://www.key.aero/aeroplanemonthly)
 
+## Papers
+- [Roadmap to DO-178C](https://www.academia.edu/74924848/Roadmap_to_a_DO_178_C_Formal_Model_Based_Software_Engineering_Methodology), by Tanaya Datta.
+
 ## Companies
 - [Northrop Grumman](https://www.northropgrumman.com/)
 - [Boeing](https://www.boeing.com/)
